@@ -1,0 +1,4 @@
+"supplier_id","supplier_name","supplier_contact","supplier_address","supplier_city","supplier_state","supplier_zipcode"
+1,"Tech Solutions","John Smith","456 Tech St","San Francisco","CA","94105"
+2,"Electronics R Us","Jane Doe","789 Electronics Ave","Seattle","WA","98101"
+300,"Gadget World","Sarah Brown","987 Gadget Rd","Miami","FL","33101"

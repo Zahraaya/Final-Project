@@ -1,0 +1,5 @@
+"product_id","product_name","product_category","supplier_id","product_price"
+1,"Laptop","Electronics",1,"1200"
+2,"Smartphone","Electronics",2,"800"
+3,"Printer","Electronics",3,"300"
+6072,"Camera","Electronics",2,"500"
